@@ -1,6 +1,8 @@
 # political-constraints
 Fortran and Matlab codes for the project "Political Constraints and Sovereign Default Premia"
 
+Version 1 (June 23, 2020)
+
 Fortran codes:
  1. main_linear_g.f90 is the main fortran code that computes and simulates the model.
  2. helper_new.f90 contains the non-calibrated parameters and the functions used in main_linear_g.f90.
